@@ -1,0 +1,3 @@
+﻿  Coursework 1.cpp
+C:\Users\20109\source\repos\Coursework 1\Coursework 1\Coursework 1.cpp(171,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Coursework 1.vcxproj -> C:\Users\20109\source\repos\Coursework 1\x64\Debug\Coursework 1.exe
