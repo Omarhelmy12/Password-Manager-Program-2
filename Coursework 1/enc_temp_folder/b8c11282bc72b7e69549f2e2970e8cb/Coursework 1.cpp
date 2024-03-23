@@ -105,7 +105,7 @@ string decryptCaesarCipher(const string& text, int shift) {
                 result[i] = 'A' + (text[i] - 'A' - shift + 26) % 26; // Ensure positive result after modulo operation
             }
             else {
-                result[i] = 'a' + (text[i] - 'a' - shift + 26) % 26; \
+                result[i] = 'a' + (text[i] - 'a' - shift + 26) % 26; 
             }
         }
     }
